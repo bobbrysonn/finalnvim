@@ -1,8 +1,5 @@
 local opt = vim.opt
 
-vim.g.mapleader = " "
-vim.g.maplocalleader = "\\"
-
 -- Clipboard
 opt.clipboard = "unnamedplus"
 

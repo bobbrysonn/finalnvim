@@ -11,14 +11,6 @@ return {
             highlight = {
                 enable = true
             },
-            -- Experimental
-            indent = {
-                enable = true
-            },
-            rainbow = {
-                enable = true,
-                extended_mode = true,
-            },
             sync_install = true,
         })
     end
