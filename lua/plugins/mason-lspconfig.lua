@@ -3,6 +3,7 @@ return {
   opts = {
     ensure_installed = {
       "clangd",
+      "cssls",
       "lua_ls",
       "pyright",
       "tailwindcss",
